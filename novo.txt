@@ -1,0 +1,2 @@
+Este archivo tiene la funcionalidad de hacer dar el espacio para poder hacer pruebas de merge(no sirve para nada solo pára hacerme entender el flujo de trabajo con git y github)
+Gracias al archivo
